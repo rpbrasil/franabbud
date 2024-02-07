@@ -387,11 +387,11 @@
 	.service img {
 		float: none;
 		width: auto;
-		max-width: 290px;
+		/* max-width: 290px; */
 		line-height: 1;
 		font-size: 64px;
 		margin-bottom: 18px;
-		/*alterado de 84 pra 290 */
+		/*alterado de 84 pra 290 e comentado depois*/
 	}
 
 	.service p {
